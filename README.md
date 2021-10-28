@@ -1,2 +1,3 @@
 # Team_Profile_Generator
-team profile generator
+
+<img src="assets/images/screenshot.png">

@@ -1,0 +1,25 @@
+{
+  "name": "Team_Profile_Generator",
+  "version": "1.0.0",
+  "description": "app to create team profile generator ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonmorg-hs/Team_Profile_Generator.git"
+  },
+  "author": "Jon Morgan",
+  "license": "MIT",
+  "homepage": "https://github.com/njonmorg-hs/Team_Profile_Generator#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
